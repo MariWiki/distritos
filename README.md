@@ -1,2 +1,2 @@
-# ZonaNorte
+# Distritos
 Guía Alternativa Zona Norte
